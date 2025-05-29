@@ -1,3 +1,3 @@
 # git-practice
 
-asdasdasdasd1에서 수정임
+asdasdasdasd1에서 수정임2트
